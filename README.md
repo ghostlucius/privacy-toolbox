@@ -9,7 +9,7 @@ The goal of this repository is to provide a centralized place for professionals,
 All resources are organized in the [`privacy_resources.md`](privacy_resources.md) file.
 
 ## 📜 License
-This repository is open-source under the [MIT License](LICENSE).
+This repository is open-source under the **GNU General Public License 3.0 (GPL-3.0)**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
