@@ -11,8 +11,10 @@
 - [Tor Project (Anonymous browsing)](https://www.torproject.org/)
 
 - ### 📖 Privacy Guides
+- ## Cookie
+- Coming Soon
 - ## Transfer Impact Assessment
-- [Transfer Impact Assessment - Pratical Guide (CNIL)](https://www.cnil.fr/sites/cnil/files/2025-01/guide_tia.pdf))
+- [Transfer Impact Assessment - Pratical Guide (CNIL)](https://www.cnil.fr/sites/cnil/files/2025-01/guide_tia.pdf)
 
 ## 🚀 Contributing
 Feel free to contribute by adding new links, categorizing resources, or suggesting improvements!
