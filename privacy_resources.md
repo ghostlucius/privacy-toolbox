@@ -15,6 +15,8 @@
 - Coming Soon
 - ### Transfer Impact Assessment
 - [Transfer Impact Assessment - Pratical Guide (CNIL)](https://www.cnil.fr/sites/cnil/files/2025-01/guide_tia.pdf)
+- ## API - Application Programming Interfaces
+- [Recommandation technique - RELATIVE À L’UTILISATION DES INTERFACES DE PROGRAMMATION APPLICATIVES (API) POUR LE PARTAGE SECURISÉ DE DONNÉES À CARACTÈRE PERSONNEL (CNIL) (***in french***)](https://www.cnil.fr/sites/cnil/files/2023-07/recommandation_api.pdf)]
 
 ## 📖 Privacy Templates
 - Coming Soon
